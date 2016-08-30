@@ -81,9 +81,9 @@
         Connecting to Azure Active Directory
 
    .NOTES 
-        NAME: Microsoft.PowerShell_profile.ps1 
+        NAME: Connect-Office365.ps1 
         AUTHOR: David Smith
-        LASTEDIT: 01/13/2015
+        LASTEDIT: 08/30/16
         KEYWORDS: Office365, Exchange Online, Skype for Business Online, SharePoint Online, Azure AD
         VERSION: 2.1 (added #Requires features for all required modules)
         The script are provided “AS IS” with no guarantees, no warranties, and they confer no rights.
