@@ -42,7 +42,7 @@
     LASTEDIT: 08/05/2014
     KEYWORDS: PowerShell, Scripting
     BLOG: texmx.net
-    EMAIL: david.smith@rbaconsulting.com
+    EMAIL: david.smith@Quisitive.com
     COMMENTS: 	-Modified 10/19/2015 - Added Foreground and Background color 
 		         options for output to screen and changed OutputToScreen variable
 		         to a switch.
