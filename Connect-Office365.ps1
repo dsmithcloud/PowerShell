@@ -83,6 +83,7 @@
    .NOTES 
         NAME: Connect-Office365.ps1 
         AUTHOR: David Smith
+	FAVORITE COLOR: Blue
         LASTEDIT: 08/30/16
         KEYWORDS: Office365, Exchange Online, Skype for Business Online, SharePoint Online, Azure AD
         VERSION: 2.1 (added #Requires features for all required modules)

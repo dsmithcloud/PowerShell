@@ -42,7 +42,7 @@
     LASTEDIT: 08/05/2014
     KEYWORDS: PowerShell, Scripting
     BLOG: texmx.net
-    EMAIL: david.smith@rbaconsulting.com
+    EMAIL: david.smith@Quisitive.com
     COMMENTS: 	-Modified 10/19/2015 - Added Foreground and Background color 
 		         options for output to screen and changed OutputToScreen variable
 		         to a switch.
@@ -61,7 +61,7 @@
     The script is provided “AS IS” with no guarantees, no warranties, and confers no rights
         
 .LINK
-    RBA Consulting http://www.RBAConsulting.com/
+    RBA Consulting http://www.Quisitive.com/
 
 .LINK 
     My Blog Link http://www.texmx.net/
@@ -94,3 +94,5 @@ function WriteTo-Log
 	if ($OutputToScreen) {Write-Host $StringToWrite -ForegroundColor $ForegroundColor -BackgroundColor $BackgroundColor}
     Add-Content -Path $LogFile -Value $StringToWrite
  }
+
+ 
